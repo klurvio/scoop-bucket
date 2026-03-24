@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/klurvio/sukko-cli/releases/download/v0.1.0/sukko_0.1.0_windows_amd64.zip",
+            "bin": [
+                "sukko.exe"
+            ],
+            "hash": "de49e8b342274adbd779024f7dec7383ac03fd5e5e32f798290b4bf1d38f8c22"
+        },
+        "arm64": {
+            "url": "https://github.com/klurvio/sukko-cli/releases/download/v0.1.0/sukko_0.1.0_windows_arm64.zip",
+            "bin": [
+                "sukko.exe"
+            ],
+            "hash": "ea6a9b89449f380817a2a9bb10d2744c1264ae8ab8f7347981932fa421361eb2"
+        }
+    },
+    "homepage": "https://github.com/klurvio/sukko-cli",
+    "license": "MIT",
+    "description": "Sukko WebSocket platform CLI"
+}
