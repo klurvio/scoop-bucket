@@ -1,19 +1,19 @@
 {
-    "version": "0.2.5",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/klurvio/sukko-cli/releases/download/v0.2.5/sukko_0.2.5_windows_amd64.zip",
+            "url": "https://github.com/klurvio/sukko-cli/releases/download/v0.3.0/sukko_0.3.0_windows_amd64.zip",
             "bin": [
                 "sukko.exe"
             ],
-            "hash": "83b2066b012cd735a1bbb854d003fbdfc5d321948bb65c1ee3dc39b817eb08e2"
+            "hash": "8187bf9dde8b66d4a42f39de4f4b97415ebac44526bf4027e9ca5f99c73a0189"
         },
         "arm64": {
-            "url": "https://github.com/klurvio/sukko-cli/releases/download/v0.2.5/sukko_0.2.5_windows_arm64.zip",
+            "url": "https://github.com/klurvio/sukko-cli/releases/download/v0.3.0/sukko_0.3.0_windows_arm64.zip",
             "bin": [
                 "sukko.exe"
             ],
-            "hash": "42cba5508dba387b97dbab587299cd295b9bc37a6cf90e7d581fc11779d855b4"
+            "hash": "631b7edf7da396f3ddcf86ab2f9c1e566c8bbd4ffaeca573ca6a302536b5cb76"
         }
     },
     "homepage": "https://github.com/klurvio/sukko-cli",
